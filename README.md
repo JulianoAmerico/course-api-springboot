@@ -1,2 +1,2 @@
-# Repository of test Spring Boot
-The examples is following the course Spring Boot of Java Brains in Youtube.
+# Repository of Spring Boot's test
+The examples are following the course Spring Boot of Java Brains in Youtube.
